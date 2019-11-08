@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">225965395463-dorrs9efnb4lb6l51jsnlko8u9d57qvg.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://imageblur-d63ae.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">225965395463</string>
+    <string name="google_api_key" translatable="false">AIzaSyBAAYif3AuPgWw0eSDIYpRlSn0SC2pJU0w</string>
+    <string name="google_app_id" translatable="false">1:225965395463:android:9ff8e5d764c2fe916824a2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBAAYif3AuPgWw0eSDIYpRlSn0SC2pJU0w</string>
+    <string name="google_storage_bucket" translatable="false">imageblur-d63ae.appspot.com</string>
+    <string name="project_id" translatable="false">imageblur-d63ae</string>
+</resources>

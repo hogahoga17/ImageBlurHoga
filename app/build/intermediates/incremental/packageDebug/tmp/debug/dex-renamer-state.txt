@@ -1,0 +1,4 @@
+#Thu Nov 07 00:16:00 ICT 2019
+base.0=E\:\\Polinema\\Semester 7\\Pemrograman Mobile\\Project\\ImageBlur\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
